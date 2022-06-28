@@ -1,0 +1,174 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.Layer1{
+	width: 95%;
+  height:100%;
+	margin: 50px;
+}
+.Layer1_image{
+	margin:1px;
+	border:1px solid #ccc;
+	float:right;
+	width:50%;
+	border: none;
+}
+.Layer1_image img{
+	width:100%;
+	height:auto;
+}
+.Layer1_heading{
+	font-size:75px;
+	font-family:"Arial";
+	margin-top: 100px;
+	margin-left: 25px;
+	color: #575757;
+}
+.Layer1_descrip{
+	font-family:"Arial";
+	font-size: 25px;
+	margin-left: 25px;
+	margin-top: 50px;
+	color: #575757;
+}
+.Layer1_button{
+	width:170px ;
+	height:60px;
+	background:#fd5131;
+	border: 2px solid #fd5131;
+	margin-top: 50px;
+	font-size: 20px;
+	color: #fff;
+	border-radius: 30px;
+	margin-left: 25px;
+	}
+.Layer2{
+	background-image: url(../images/shapes/7.png);
+	height:560px;
+	width: 100%;
+	margin-top: 100px;
+	}
+	.Layer2_image{
+		margin-top: 60px;
+		margin-left: 200px;
+		border:1px solid #ccc;
+		float:left;
+		width:40%;
+		border: none;
+	}
+	.Layer2_image img{
+		height:500px;
+	}
+	.Layer2_heading{
+		font-size:50px;
+		font-family:"Arial";
+		margin-top: 100px;
+		color: #575757;
+	}
+	.Layer2_descrip{
+		font-family:"Arial";
+		font-size: 20px;
+		margin-top: 50px;
+	}
+	.Layer2_button{
+		width:170px ;
+		height:60px;
+		background:#fd5131;
+		border: 2px solid #fd5131;
+		margin-top: 50px;
+		font-size: 20px;
+		color: #fff;
+		border-radius: 30px;
+	}
+	.Layer3{
+		height:550px;
+		width: 100%;
+		margin-top: 100px;
+	}
+	.Layer3_heading{
+		font-size:50px;
+		font-family:"Arial";
+		margin-top: 100px;
+		color: #575757;
+		text-align: center;
+	}
+	.Layer3_descrip{
+		font-family:"Arial";
+		font-size: 20px;
+		margin-top: 50px;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+
+	.Layer3_image{
+		width: 30%;
+  	background-color: white;
+	  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	  margin-bottom: 25px;
+		margin: 20px;
+		border-radius: 40px;
+		float: left;
+
+	}
+	.Layer3_image img{
+		margin:30px;
+		width: 86%;
+	}
+	.Layer3_image_text_title{
+  	padding: 10px 20px;
+		font-size:40px;
+		font-family:"Arial";
+	}
+	.Layer3_image_text_descrip{
+		font-family:"Arial";
+		font-size: 20px;
+		margin-top: 20px;
+		margin-left: 20px;
+		margin-bottom: 40px;
+		color: #575757;
+	}
+	.Layer4{
+		width: 90%;
+		height: 250px;
+  	background-color: white;
+	  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		margin-top: 350px;
+		margin-left: 70px;
+		border-radius: 40px;
+	}
+	.Layer4_heading{
+		font-size:50px;
+		font-family:"Arial";
+		margin-top: 65px;
+		margin-left: 15%;
+		text-align: center;
+		float: left;
+	}
+	.Layer4_descrip{
+		font-size:20px;
+		font-family:"Arial";
+		color: #575757;
+		text-align: center;
+	}
+	.Layer5{
+		width: 100%;
+		height: 300px;
+		background-color:black;
+	 	margin-top: 100px;
+	}
+	.End_Layer_heading{
+		font-size:40px;
+		font-family:"Arial";
+		margin-top: 65px;
+		text-align: center;
+		color: #575757;
+	}
+	.End_Layer_descrip{
+		font-size:20px;
+		font-family:"Arial";
+		margin-top: 30px;
+		text-align: center;
+		color: white;
+	}
